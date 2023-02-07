@@ -37,7 +37,7 @@ O site contém as seguintes seções:
 
 
 ## ✒️ Autores
-| [<img src="https://avatars.githubusercontent.com/GeovaneRigonato" width=115><br><sub>Geovane Rigonato</sub>](https://github.com/GeovaneRigonato) | [<img src="https://avatars.githubusercontent.com/u/48157305?v=4" width=115><br><sub>Felipe Ferreira</sub>](https://github.com/FelipeFerreiraDev) | [<img src="https://avatars.githubusercontent.com/u/42157830?v=4" width=115><br><sub>Gabriel Lima</sub>](https://github.com/Gabriellimmaa) | [<img src="https://avatars.githubusercontent.com/u/88116603?v=4" width=115><br><sub>João Lorenzo</sub>](https://github.com/lorenzoMalutta) | [<img src="https://avatars.githubusercontent.com/Jh0wjso" width=115><br><sub>Jhonat an</sub>](https://github.com/Jh0wjso) |
+| [<img src="https://avatars.githubusercontent.com/GeovaneRigonato" width=115><br><sub>Geovane Rigonato</sub>](https://github.com/GeovaneRigonato) | [<img src="https://avatars.githubusercontent.com/u/48157305?v=4" width=115><br><sub>Felipe Ferreira</sub>](https://github.com/FelipeFerreiraDev) | [<img src="https://avatars.githubusercontent.com/u/42157830?v=4" width=115><br><sub>Gabriel Lima</sub>](https://github.com/Gabriellimmaa) | [<img src="https://avatars.githubusercontent.com/u/88116603?v=4" width=115><br><sub>João Lorenzo</sub>](https://github.com/lorenzoMalutta) | [<img src="https://avatars.githubusercontent.com/Jh0wjso" width=115><br><sub>Jhonatan</sub>](https://github.com/Jh0wjso) |
 | :---: | :---: | :---: | :---: | :---: 
 
 
